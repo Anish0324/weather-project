@@ -1,0 +1,2 @@
+create a node for requried project
+$node filename
